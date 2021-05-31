@@ -1,0 +1,20 @@
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\bin\Debug\B191210071_EzgiBAGCIK_projeodevi.exe.config
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\bin\Debug\B191210071_EzgiBAGCIK_projeodevi.exe
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\bin\Debug\B191210071_EzgiBAGCIK_projeodevi.pdb
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\obj\Debug\B191210071_EzgiBAGCIK_projeodevi.csprojAssemblyReference.cache
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\obj\Debug\B191210071_EzgiBAGCIK_projeodevi.Form1.resources
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\obj\Debug\B191210071_EzgiBAGCIK_projeodevi.Properties.Resources.resources
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\obj\Debug\B191210071_EzgiBAGCIK_projeodevi.csproj.GenerateResource.cache
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\obj\Debug\B191210071_EzgiBAGCIK_projeodevi.csproj.CoreCompileInputs.cache
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\obj\Debug\B191210071_EzgiBAGCIK_projeodevi.exe
+C:\Users\Ezgi\source\repos\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\obj\Debug\B191210071_EzgiBAGCIK_projeodevi.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\PROJE\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\bin\Debug\B191210071_EzgiBAGCIK_projeodevi.exe.config
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\PROJE\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\bin\Debug\B191210071_EzgiBAGCIK_projeodevi.exe
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\PROJE\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\bin\Debug\B191210071_EzgiBAGCIK_projeodevi.pdb
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\PROJE\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\obj\Debug\B191210071_EzgiBAGCIK_projeodevi.csprojAssemblyReference.cache
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\PROJE\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\obj\Debug\B191210071_EzgiBAGCIK_projeodevi.Form1.resources
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\PROJE\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\obj\Debug\B191210071_EzgiBAGCIK_projeodevi.Properties.Resources.resources
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\PROJE\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\obj\Debug\B191210071_EzgiBAGCIK_projeodevi.csproj.GenerateResource.cache
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\PROJE\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\obj\Debug\B191210071_EzgiBAGCIK_projeodevi.csproj.CoreCompileInputs.cache
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\PROJE\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\obj\Debug\B191210071_EzgiBAGCIK_projeodevi.exe
+C:\Users\ezgib\OneDrive\Masaüstü\Ezgi BAĞCIK_\2.DÖNEM\NDP\PROJE\B191210071_EzgiBAGCIK_projeodevi\B191210071_EzgiBAGCIK_projeodevi\obj\Debug\B191210071_EzgiBAGCIK_projeodevi.pdb
